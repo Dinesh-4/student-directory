@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Student Directory</title>
+</head>
+<body>
+    <header>
+        <h1>Student Directory</h1>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search by name...">
+            <button id="searchButton"><i class="fa fa-search"></i></button>
+        </div>
+    </header>
+    <main class="container">
+        <section class="student-grid">
+            <!-- Javascript will render the student-card here -->
+            <!-- Repeat this section for each student card -->
+            <!-- <div class="student-card">
+                <img src="img1.jpg" alt="Student 1">
+                <h2>Student 1 Name</h2>
+                <p>Contact: student1@example.com</p>
+            </div> -->
+        </section>
+        <nav class="pagination">
+            <!-- Javascript will render the pagination here -->
+            <a href="#">&laquo;</a>
+            <!-- <a href="#" class="page-link">1</a>
+            <a href="#" class="page-link">2</a>
+            <a href="#" class="page-link">4</a>
+            <a href="#" class="page-link">5</a>
+            <a href="#" class="page-link">6</a>
+            <a href="#" class="page-link">7</a>
+            <a href="#" class="page-link">8</a>
+            <a href="#" class="page-link">9</a>
+            <a href="#" class="page-link">10</a> -->
+            <a href="#">&raquo;</a>
+        </nav>
+    </main>
+    <footer>
+        <p>&copy; 2023 Student Directory</p>
+    </footer>
+
+    <script src="student_data.json"></script>
+    <script src="script.js"></script>
+</body>
+</html>

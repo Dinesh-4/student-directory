@@ -1,0 +1,664 @@
+[
+    {
+        "id": 1,
+        "name": "Ebony Thompson",
+        "education": "Information Technology",
+        "address": "975 Campbell Trail Apt. 534\nSouth Ashleybury, CT 47341",
+        "skills": "JavaScript",
+        "contact": "ashleysanchez@example.org",
+        "certifications": [
+            "something",
+            "trouble",
+            "four"
+        ],
+        "image": "images/student1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Latasha Ford",
+        "education": "Engineering",
+        "address": "3799 Myers Club Apt. 104\nEast Sarahchester, DE 32856",
+        "skills": "JavaScript, CSS, Java, Python",
+        "contact": "kimberly42@example.org",
+        "certifications": [
+            "identify",
+            "fund",
+            "six"
+        ],
+        "image": "images/student2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Justin Hoffman",
+        "education": "Computer Science",
+        "address": "7736 Patricia Valley Suite 162\nEast Courtneyview, GU 69031",
+        "skills": "HTML, Java, CSS, Python",
+        "contact": "wwyatt@example.org",
+        "certifications": [
+            "democratic",
+            "action",
+            "become"
+        ],
+        "image": "images/student3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kelly Hawkins",
+        "education": "Engineering",
+        "address": "832 Howell Skyway Suite 250\nEast Dawn, MO 61459",
+        "skills": "JavaScript, Python",
+        "contact": "kristenmckee@example.net",
+        "certifications": [
+            "new",
+            "much",
+            "artist"
+        ],
+        "image": "images/student4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yolanda Wells",
+        "education": "Information Technology",
+        "address": "711 Munoz Summit Suite 520\nAmymouth, CT 11621",
+        "skills": "Python, CSS, HTML, Java",
+        "contact": "johnsonbriana@example.com",
+        "certifications": [
+            "treatment"
+        ],
+        "image": "images/student5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jason Hansen",
+        "education": "Engineering",
+        "address": "3874 Anthony Extensions\nLake Randy, NE 88305",
+        "skills": "Python, Java, HTML",
+        "contact": "alexanderschmidt@example.org",
+        "certifications": [
+            "offer"
+        ],
+        "image": "images/student6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "John Williams",
+        "education": "Information Technology",
+        "address": "6207 Bates Plaza\nWilliamsfurt, PA 73144",
+        "skills": "HTML, JavaScript, Python, CSS",
+        "contact": "hnorman@example.org",
+        "certifications": [
+            "training",
+            "ago",
+            "this"
+        ],
+        "image": "images/student7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jessica Smith",
+        "education": "Computer Science",
+        "address": "153 Mark Island\nAlecbury, AS 28316",
+        "skills": "Java",
+        "contact": "zanthony@example.com",
+        "certifications": [
+            "writer",
+            "similar"
+        ],
+        "image": "images/student8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Douglas Bender",
+        "education": "Information Technology",
+        "address": "557 Riddle Plain\nAndrewstown, IN 92762",
+        "skills": "CSS",
+        "contact": "paul97@example.net",
+        "certifications": [
+            "candidate",
+            "size",
+            "not"
+        ],
+        "image": "images/student9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ashley Donaldson",
+        "education": "Engineering",
+        "address": "Unit 2068 Box 5257\nDPO AE 08529",
+        "skills": "Java, Python",
+        "contact": "cummingsjohn@example.net",
+        "certifications": [
+            "child",
+            "forward"
+        ],
+        "image": "images/student10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Donna Miller",
+        "education": "Information Technology",
+        "address": "6049 Huang Street Suite 586\nJoshuaville, IA 63785",
+        "skills": "Java, HTML, Python, CSS",
+        "contact": "hlane@example.com",
+        "certifications": [
+            "southern"
+        ],
+        "image": "images/student11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Alicia Cruz",
+        "education": "Computer Science",
+        "address": "99093 Jimenez Manor\nJulieside, AK 63553",
+        "skills": "JavaScript, Python, Java",
+        "contact": "whitney28@example.org",
+        "certifications": [
+            "challenge"
+        ],
+        "image": "images/student12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Antonio Henderson",
+        "education": "Information Technology",
+        "address": "49001 Adams Shoals\nSouth Nicolefurt, MT 42889",
+        "skills": "JavaScript",
+        "contact": "randallbruce@example.org",
+        "certifications": [
+            "resource",
+            "trial",
+            "month"
+        ],
+        "image": "images/student13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Michael Boyd",
+        "education": "Engineering",
+        "address": "90152 Lucas River\nSouth Kyle, MP 25695",
+        "skills": "JavaScript, Java, Python, CSS",
+        "contact": "laurie54@example.com",
+        "certifications": [
+            "financial",
+            "town"
+        ],
+        "image": "images/student14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Jamie Smith",
+        "education": "Engineering",
+        "address": "9575 Kayla Meadow\nMcbrideview, AZ 10053",
+        "skills": "JavaScript, Java, Python, CSS",
+        "contact": "andre03@example.com",
+        "certifications": [
+            "against",
+            "young"
+        ],
+        "image": "images/student15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Lori Huffman",
+        "education": "Engineering",
+        "address": "8196 Lee Wells Apt. 018\nSouth Casey, SD 02143",
+        "skills": "HTML, Python, JavaScript, Java",
+        "contact": "nancy82@example.net",
+        "certifications": [
+            "left"
+        ],
+        "image": "images/student16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "John Richardson",
+        "education": "Engineering",
+        "address": "USNS Pennington\nFPO AA 55910",
+        "skills": "CSS, JavaScript",
+        "contact": "ruizclaire@example.net",
+        "certifications": [
+            "response"
+        ],
+        "image": "images/student17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Scott Harris",
+        "education": "Information Technology",
+        "address": "765 Martinez Course\nMatthewberg, NC 15962",
+        "skills": "Python, CSS, Java, HTML",
+        "contact": "ucastillo@example.com",
+        "certifications": [
+            "medical",
+            "structure"
+        ],
+        "image": "images/student18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Deborah Avila",
+        "education": "Engineering",
+        "address": "8472 Joshua Burg\nHernandeztown, AS 41883",
+        "skills": "CSS, HTML, Java, JavaScript, Python",
+        "contact": "maynardtiffany@example.net",
+        "certifications": [
+            "those",
+            "guess"
+        ],
+        "image": "images/student19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Susan Romero",
+        "education": "Information Technology",
+        "address": "5205 Frost Islands\nJohnsonmouth, DE 82794",
+        "skills": "Java, Python, CSS",
+        "contact": "weissthomas@example.com",
+        "certifications": [
+            "affect",
+            "investment"
+        ],
+        "image": "images/student20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Randall Lewis",
+        "education": "Computer Science",
+        "address": "70108 Villegas Parks\nHollyview, NJ 11861",
+        "skills": "CSS, Java, JavaScript, Python",
+        "contact": "tayloralexis@example.org",
+        "certifications": [
+            "character",
+            "word",
+            "through"
+        ],
+        "image": "images/student21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Colin Rivera",
+        "education": "Information Technology",
+        "address": "3307 Tina Courts\nEast Lisa, TN 83132",
+        "skills": "Python, JavaScript, HTML, Java",
+        "contact": "brandon25@example.net",
+        "certifications": [
+            "ago",
+            "too",
+            "party"
+        ],
+        "image": "images/student22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Christopher Powers",
+        "education": "Computer Science",
+        "address": "PSC 1035, Box 0902\nAPO AE 89208",
+        "skills": "Java, CSS, Python",
+        "contact": "matthewcraig@example.org",
+        "certifications": [
+            "yes",
+            "condition",
+            "change"
+        ],
+        "image": "images/student23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Michaela Hale",
+        "education": "Information Technology",
+        "address": "797 Best Trafficway Apt. 583\nStevensview, TN 51463",
+        "skills": "Java, JavaScript, CSS, Python, HTML",
+        "contact": "bakererica@example.net",
+        "certifications": [
+            "successful",
+            "food",
+            "cup"
+        ],
+        "image": "images/student24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Heather Smith",
+        "education": "Engineering",
+        "address": "74707 Cervantes Cliff Apt. 726\nNew Emilystad, MP 83541",
+        "skills": "JavaScript, Python",
+        "contact": "luke52@example.net",
+        "certifications": [
+            "rich",
+            "story"
+        ],
+        "image": "images/student25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Julie Johnson",
+        "education": "Computer Science",
+        "address": "66908 Tonya Ramp\nTylertown, KS 68041",
+        "skills": "JavaScript, HTML",
+        "contact": "jjohnson@example.com",
+        "certifications": [
+            "authority",
+            "tonight",
+            "evening"
+        ],
+        "image": "images/student26.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Jason Watson",
+        "education": "Computer Science",
+        "address": "01853 Krista Skyway\nElizabethfurt, GU 33096",
+        "skills": "CSS, Python, HTML, JavaScript",
+        "contact": "evansjoseph@example.com",
+        "certifications": [
+            "total",
+            "general"
+        ],
+        "image": "images/student27.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Kristina Roth",
+        "education": "Information Technology",
+        "address": "4923 Michelle Estates\nSandraside, OH 87329",
+        "skills": "JavaScript, Java",
+        "contact": "roserobert@example.net",
+        "certifications": [
+            "life",
+            "particularly"
+        ],
+        "image": "images/student28.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Mr. Bryan Gutierrez",
+        "education": "Engineering",
+        "address": "5555 Stephanie Lights Suite 062\nNew Amberfort, CO 51803",
+        "skills": "Java",
+        "contact": "stevensonronald@example.org",
+        "certifications": [
+            "but",
+            "page"
+        ],
+        "image": "images/student29.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Hannah Moreno",
+        "education": "Computer Science",
+        "address": "5694 Joy Crossing Suite 617\nSouth Davidbury, ID 57526",
+        "skills": "Python, CSS, JavaScript, HTML, Java",
+        "contact": "phillipsroy@example.net",
+        "certifications": [
+            "determine"
+        ],
+        "image": "images/student30.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Robert Diaz",
+        "education": "Information Technology",
+        "address": "55518 Kelli Camp Apt. 771\nNew Alexander, VI 86335",
+        "skills": "JavaScript",
+        "contact": "nicholas13@example.org",
+        "certifications": [
+            "political",
+            "fund",
+            "arm"
+        ],
+        "image": "images/student31.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Kenneth Johnson",
+        "education": "Engineering",
+        "address": "96266 Patricia Ridge\nBrandonfort, NC 44812",
+        "skills": "Python, Java, HTML",
+        "contact": "jameswoodard@example.net",
+        "certifications": [
+            "almost",
+            "again",
+            "find"
+        ],
+        "image": "images/student32.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Daniel Hunter",
+        "education": "Engineering",
+        "address": "45128 Cook Way\nNorth Kendra, DE 11769",
+        "skills": "CSS, Python, Java, HTML",
+        "contact": "michellegonzalez@example.org",
+        "certifications": [
+            "those",
+            "top",
+            "suggest"
+        ],
+        "image": "images/student33.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Mark Blair",
+        "education": "Engineering",
+        "address": "4675 Krause Prairie Suite 881\nValerieburgh, MH 27243",
+        "skills": "Java, HTML, JavaScript, Python, CSS",
+        "contact": "wallacedenise@example.org",
+        "certifications": [
+            "until",
+            "their"
+        ],
+        "image": "images/student34.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Levi Le",
+        "education": "Engineering",
+        "address": "53934 Bauer Turnpike\nSimmonsmouth, VT 30568",
+        "skills": "Java, Python",
+        "contact": "kellymichael@example.org",
+        "certifications": [
+            "writer",
+            "benefit"
+        ],
+        "image": "images/student35.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Angela Jones",
+        "education": "Information Technology",
+        "address": "696 Page Terrace\nWest Keith, UT 21522",
+        "skills": "Python, JavaScript, HTML, Java",
+        "contact": "robertoneill@example.net",
+        "certifications": [
+            "little",
+            "several"
+        ],
+        "image": "images/student36.jpg"
+    },
+    {
+        "id": 37,
+        "name": "David Robbins",
+        "education": "Engineering",
+        "address": "95865 Karl Neck\nMarytown, RI 55119",
+        "skills": "HTML, Python, Java, JavaScript",
+        "contact": "jonesmichael@example.org",
+        "certifications": [
+            "child",
+            "blood",
+            "assume"
+        ],
+        "image": "images/student37.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Katherine King",
+        "education": "Computer Science",
+        "address": "66839 Hall Meadow\nHoganhaven, PA 49572",
+        "skills": "Python, Java",
+        "contact": "michaelkaufman@example.net",
+        "certifications": [
+            "energy",
+            "begin"
+        ],
+        "image": "images/student38.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Patrick Butler",
+        "education": "Information Technology",
+        "address": "27124 Robert Keys Suite 597\nPort Michaelville, GA 53380",
+        "skills": "Python, HTML, CSS, Java",
+        "contact": "thorntontodd@example.com",
+        "certifications": [
+            "still",
+            "between",
+            "method"
+        ],
+        "image": "images/student39.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Lindsay Cooper",
+        "education": "Information Technology",
+        "address": "201 Torres Estate\nPort Brianna, NV 69115",
+        "skills": "JavaScript",
+        "contact": "hartmegan@example.org",
+        "certifications": [
+            "former",
+            "new",
+            "under"
+        ],
+        "image": "images/student40.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Sarah Cox",
+        "education": "Computer Science",
+        "address": "20001 Kenneth Land\nEast Stephanieshire, SD 58539",
+        "skills": "HTML, JavaScript, Java",
+        "contact": "nicolerichard@example.net",
+        "certifications": [
+            "pretty",
+            "language",
+            "positive"
+        ],
+        "image": "images/student41.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Nicholas Clark",
+        "education": "Engineering",
+        "address": "3375 Butler Stream Suite 587\nJonesmouth, GA 03876",
+        "skills": "JavaScript, HTML",
+        "contact": "yesenia36@example.org",
+        "certifications": [
+            "face"
+        ],
+        "image": "images/student42.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Ashley Gray",
+        "education": "Computer Science",
+        "address": "62774 Miller Falls\nMichaelland, LA 89895",
+        "skills": "HTML",
+        "contact": "nancy09@example.com",
+        "certifications": [
+            "see"
+        ],
+        "image": "images/student43.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Tiffany Lambert",
+        "education": "Engineering",
+        "address": "731 Jamie Ways Apt. 076\nWest Suzanne, NJ 40611",
+        "skills": "JavaScript",
+        "contact": "ppatel@example.net",
+        "certifications": [
+            "management",
+            "before"
+        ],
+        "image": "images/student44.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Paul Lopez",
+        "education": "Engineering",
+        "address": "58679 Jimenez Way Suite 597\nNorth Ericside, OK 89858",
+        "skills": "CSS, JavaScript, Python, HTML",
+        "contact": "ttrujillo@example.org",
+        "certifications": [
+            "medical",
+            "structure",
+            "recently"
+        ],
+        "image": "images/student45.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Lindsay Rodriguez",
+        "education": "Information Technology",
+        "address": "6033 Danielle Well Apt. 876\nHughesborough, WA 63464",
+        "skills": "JavaScript",
+        "contact": "jennifer10@example.net",
+        "certifications": [
+            "knowledge",
+            "matter"
+        ],
+        "image": "images/student46.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Donna Carson",
+        "education": "Information Technology",
+        "address": "5056 Winters Spring Apt. 576\nPort Destinyview, IA 04874",
+        "skills": "HTML, Java, Python, JavaScript, CSS",
+        "contact": "deleondonna@example.com",
+        "certifications": [
+            "decide",
+            "heart"
+        ],
+        "image": "images/student47.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Chelsea Smith",
+        "education": "Computer Science",
+        "address": "PSC 7506, Box 0147\nAPO AA 93174",
+        "skills": "Python, CSS, JavaScript, Java",
+        "contact": "wilsonmichael@example.net",
+        "certifications": [
+            "stuff",
+            "certain"
+        ],
+        "image": "images/student48.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Adam Wilkerson",
+        "education": "Information Technology",
+        "address": "176 Roberts Mountain\nMurrayburgh, MT 57389",
+        "skills": "Python, HTML, CSS",
+        "contact": "mking@example.net",
+        "certifications": [
+            "agree",
+            "single"
+        ],
+        "image": "images/student49.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Jason Porter",
+        "education": "Information Technology",
+        "address": "373 Susan Trail Suite 570\nThompsonton, CT 18934",
+        "skills": "HTML, Java, JavaScript, Python",
+        "contact": "johnrusso@example.org",
+        "certifications": [
+            "wear",
+            "behind",
+            "people"
+        ],
+        "image": "images/student50.jpg"
+    }
+]

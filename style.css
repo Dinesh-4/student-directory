@@ -1,0 +1,138 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the website */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 550px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-bottom: 60px;
+    min-width: 1200px;
+}
+
+header h1{
+    margin-left: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.student-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5 columns */
+    gap: 20px; /* Gap between cards */
+}
+
+.student-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+
+.student-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Match the card's border-radius */
+    margin-bottom: 10px;
+}
+
+.student-card h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.student-card p {
+    font-size: 0.9rem;
+    color: #777;
+}
+
+.container {
+    min-height: 100vh; /* Ensure the container takes up at least the full viewport height */
+    display: flex;
+    flex-direction: column; /* Arrange children in a column */
+    justify-content: space-between; /* Push content to the top and bottom */
+    align-items: center; /* Center content horizontally */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ... (other styles) ... */
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%; /* Take up the full width of the container */
+}
+
+
+/* Pagination starts */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-link {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 8px 12px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s;
+}
+
+.page-link:hover {
+    background-color: #ddd;
+}
+
+
+/* Search Container */
+
+.search-container {
+    display: flex;
+}
+
+#searchInput {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex-grow: 1;
+}
+
+#searchButton {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#searchButton:hover {
+    background-color: #0056b3;
+}
